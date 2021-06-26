@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nulinga/static/css/main.3f1c3b59.chunk.css",
+    "main.css": "/nulinga/static/css/main.3e209c60.chunk.css",
     "main.js": "/nulinga/static/js/main.0ff01201.chunk.js",
     "main.js.map": "/nulinga/static/js/main.0ff01201.chunk.js.map",
     "runtime-main.js": "/nulinga/static/js/runtime-main.8f3268d8.js",
@@ -10,7 +10,7 @@
     "static/js/3.94048aae.chunk.js": "/nulinga/static/js/3.94048aae.chunk.js",
     "static/js/3.94048aae.chunk.js.map": "/nulinga/static/js/3.94048aae.chunk.js.map",
     "index.html": "/nulinga/index.html",
-    "static/css/main.3f1c3b59.chunk.css.map": "/nulinga/static/css/main.3f1c3b59.chunk.css.map",
+    "static/css/main.3e209c60.chunk.css.map": "/nulinga/static/css/main.3e209c60.chunk.css.map",
     "static/js/2.79f06f7f.chunk.js.LICENSE.txt": "/nulinga/static/js/2.79f06f7f.chunk.js.LICENSE.txt",
     "static/media/header.css": "/nulinga/static/media/bg-header-mobile.19aa307f.png",
     "static/media/ilustracion.b1cae216.png": "/nulinga/static/media/ilustracion.b1cae216.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f3268d8.js",
     "static/js/2.79f06f7f.chunk.js",
-    "static/css/main.3f1c3b59.chunk.css",
+    "static/css/main.3e209c60.chunk.css",
     "static/js/main.0ff01201.chunk.js"
   ]
 }
