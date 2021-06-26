@@ -1,0 +1,34 @@
+.tittle-form{
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+    margin: 0.5em 0 0;
+}
+
+.form-help {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0.5em 0;
+    color: #919191;
+}
+
+.next{
+    border-radius: 20px;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    background-color: #BA4CC7;
+    padding: 10px;
+    border: none;
+    margin-top: 3em;
+}
+
+@media (min-width: 640px){
+    .column-dk{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0 3em
+    }
+};

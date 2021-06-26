@@ -8,9 +8,9 @@ function App() {
   return (
     <>
     <Header />
-    <div>
-      <img src={Graf} className="ilustracion" alt="ilustración"></img>
-      <Forms/>
+    <div className="body">
+      <img src={Graf} className="ilustracion half" alt="ilustración"></img>
+      <Forms />
     </div>
     </>
   );
