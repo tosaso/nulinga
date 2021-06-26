@@ -1,0 +1,45 @@
+.tab-selector{
+    display: flex;
+    width: 100%;
+}
+
+.tab{
+    width: 100%;
+    border: 2px solid #BA4CC7;
+    color: #BA4CC7;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    padding: 0.5em;
+}
+
+.selected{
+    width: 100%;
+    border: 2px solid #BA4CC7;
+    background-color: #BA4CC7;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    padding: 0.5em;
+}
+
+.hour-picker{
+    display: flex;
+    flex-direction: column;
+    padding: 0 2em 1em;
+    background-color: #F4F4F4;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 0 0 5px 5px;
+}
+
+.hour{
+    margin-top: 1em;
+}
+
+.hour input{
+    margin-right: 0.5em;
+}
+
+.hour label{
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
