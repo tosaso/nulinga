@@ -25,6 +25,9 @@
 @media (min-width: 640px){
     .bg-header{
         background-image: url('../../img/bg-header-desktop.png');
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-position-y: bottom;
     }
     .text-container p {
         margin: 0 auto;
