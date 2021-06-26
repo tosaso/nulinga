@@ -1,0 +1,33 @@
+.bg-header{
+    background-image: url('../../img/bg-header-mobile.png');
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.text-container{
+    text-align: center;
+}
+
+.text-container h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    margin: 0.5em 0;
+}
+
+.text-container p{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 24px;
+    margin: 0 1em;
+}
+
+@media (min-width: 640px){
+    .bg-header{
+        background-image: url('../../img/bg-header-desktop.png');
+    }
+    .text-container p {
+        margin: 0 auto;
+        width: 600px;
+        padding-bottom: 4em;
+    }
+}
